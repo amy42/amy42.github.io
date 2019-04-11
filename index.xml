@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Terminal</title>
+    <link>/</link>
+    <description>Recent content on Terminal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 09 Apr 2019 15:47:30 -0500</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello!</title>
+      <link>/post/hello/</link>
+      <pubDate>Tue, 09 Apr 2019 15:47:30 -0500</pubDate>
+      
+      <guid>/post/hello/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Something Cool</title>
+      <link>/post/something-cool/</link>
+      <pubDate>Tue, 09 Apr 2019 15:47:30 -0500</pubDate>
+      
+      <guid>/post/something-cool/</guid>
+      <description>I just want to see what the individual posts will look like.</description>
+    </item>
+    
+    <item>
+      <title>Something Else Cool</title>
+      <link>/post/something-else-cool/</link>
+      <pubDate>Tue, 09 Apr 2019 15:47:30 -0500</pubDate>
+      
+      <guid>/post/something-else-cool/</guid>
+      <description>I just want to see what the individual posts will look like.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Hi there My name is Scott, and I like drawing shapes, drinking good beer, and climbing mountains. I wanted a place to talk about things that interest me.
+The topics include:
+ smart stuff, things that the person building this site does not understand interesting articles that I would like to share and/or save for future reference things that I find inspiring maybe you will too - Good Music!  So, there you have it&amp;hellip; enjoy!</description>
+    </item>
+    
+  </channel>
+</rss>
